@@ -5,7 +5,7 @@ A simple two-page website that displays a resume PDF and provides a QR code for 
 ## Pages
 
 1. **Home Page** (`index.html`)
-   - Displays the resume PDF in a full-width viewer
+   - Displays the resume PDF in a full-width viewer via an iframe
    - Clean, responsive design
    - Navigation to QR code page
 
